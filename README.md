@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Thank you for coming to my github profile!
 
-##### 📗15 years old
+##### 📗 15 years old
 ##### 💻 Front-end Developer
 ##### ✏️ Working on school Club "Semtle"
 
