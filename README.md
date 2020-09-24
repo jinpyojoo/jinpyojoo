@@ -1,19 +1,17 @@
 ### Hi there 👋
 #### Thank you for coming to my github profile!
 
-### I am
-##### 🏫 In the 2nd grade of middle school
+##### 📗15 years old
 ##### 💻 Front-end Developer
 ##### ✏️ Working on school Club "Semtle"
 
 
 ### currently learning languages
  - C
- - Nodejs
+ - PHP
  - HTML
  - CSS
  - Javascript
- - PHP
  - Python
 
 ### previous projects
