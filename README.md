@@ -26,4 +26,4 @@
 ### How to reach me
 [Mail](mailto:wnwlsvy0914@gmail.com)
 
-![jinpyojoo](https://github-readme-stats.vercel.app/api?username=jinpyojoo&count_private=true)
+<a href="https://github.com/jinpyojoo">![jinpyojoo](https://github-readme-stats.vercel.app/api?username=jinpyojoo&count_private=true)</a>
