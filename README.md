@@ -5,6 +5,8 @@
 - 📗 15 years old
 - 💻 Front-end Developer
 - ✏️ Working on school Club "Semtle"
+- 📔 Working on Youth press "Chungraon" with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)
+- 📖 Working on Cloud-Hosting "ORMi" with [@YubinHeo](https://github.com/yubinheo)
 
 
 ### currently learning languages
@@ -18,6 +20,7 @@
 
 ### current Projects in Progress
 - sake L comments archive
+- ORMi hosting consulting discord bot
 ### previous projects
 **projects marked with * will be open-source**
  - Yak Project (with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)) *
@@ -25,7 +28,8 @@
  - acenga (Acentic project)
  - AG Bot (Acentic project) *
  - Acentic Website *
- 
+
+
 ### How to reach me
 [Mail](mailto:wnwlsvy0914@gmail.com)
 
