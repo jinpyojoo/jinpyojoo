@@ -21,6 +21,7 @@
 ### current Projects in Progress
 - sake L comments archive
 - ORMi hosting consulting discord bot
+- Chungraon site front-end
 ### previous projects
 **projects marked with * will be open-source**
  - Yak Project (with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)) *
