@@ -2,7 +2,7 @@
 #### Thank you for coming to my github profile!
 
 ### I'm
-- 📗 15 years old
+- 📗 16 years old
 - 💻 Front-end Developer
 - ✏️ Working on school Club "Semtle"
 - 📔 Working on Youth press "Chungraon" with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)
