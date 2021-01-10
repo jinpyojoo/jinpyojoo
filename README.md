@@ -29,7 +29,7 @@
  - MeetUP (KWC21 contest with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
  - acenga (Acentic project)
  - AG Bot (Acentic project) *
- - Acentic Website *
+ - Acentic Website
 
 
 ### How to reach me
