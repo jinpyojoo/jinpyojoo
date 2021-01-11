@@ -6,7 +6,6 @@
 - 💻 Front-end Developer
 - ✏️ Working on school Club "Semtle"
 - 📔 Working on Youth press "Chungraon" with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)
-- 📖 Working on Cloud-Hosting "ORMi" with [@YubinHeo](https://github.com/yubinheo)
 
 
 ### currently learning languages
