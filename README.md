@@ -1,34 +1,58 @@
 ### Hi there 👋
 #### Thank you for coming to my github profile!
 
-### I'm
+<details markdown="1">
+<summary>
+<b>😃 I am</b>
+</summary>
+
 - 📗 16 years old
 - 💻 Front-end Developer
 - ✏️ Working on school Club "Semtle"
 - 📔 Working on Youth club "Younium" with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)
 
+</details>
 
-### currently learning languages
-<div>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="30" height="30">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="30" height="30">
-</div>
+<details markdown="1">
+<summary>
+<b>🔥 Currently learning languages</b>
+</summary>
 
-### current Projects in Progress
-- sake L comments archive
-- ORMi hosting consulting discord bot
-- Chungraon site front-end
-### previous projects
-**projects marked with * will be open-source**
+- Python
+- Javascript
+- C & C++
+- Markup Languages (HTML, CSS)
+
+</details>
+
+<details markdown="1">
+<summary>
+<b>🧾 Currently working projects</b>
+</summary>
+
+ - sake L Archive
+ - SaetByeol Gray
+ - SaetByeol Yeoubi
+ - Discord Word-Chain bot
+
+</details>
+
+<details markdown="1">
+<summary>
+<b>📆 previous projects</b>
+</summary>
+
+#### 🛠 projects marked with * will be open-source
  - Yak Project (with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)) *
  - MeetUP (KWC21 contest with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
  - acenga (Acentic project)
  - AG Bot (Acentic project) *
  - Acentic Website
+ - Chungraon Front-end
+
+</details>
+
+
 
 
 ### How to reach me
