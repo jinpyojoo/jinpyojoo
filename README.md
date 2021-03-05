@@ -57,6 +57,9 @@
 
 ### How to reach me
 [Mail](mailto:wnwlsvy0914@gmail.com)
+
 [Discord](https://discord.gg/2fu9yXYz4J)
+
+[Kakao Talk](https://open.kakao.com/o/sZpZFV0c)
 
 <a href="https://github.com/jinpyojoo">![jinpyojoo](https://github-readme-stats.vercel.app/api?username=jinpyojoo&count_private=true)</a>
