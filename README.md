@@ -63,3 +63,13 @@
 [Kakao Talk](https://open.kakao.com/o/sZpZFV0c)
 
 <a href="https://github.com/jinpyojoo">![jinpyojoo](https://github-readme-stats.vercel.app/api?username=jinpyojoo&count_private=true)</a>
+
+
+#### 제한
+저의 프로젝트에 따로 명시되지 않은 한, 홍보/정보제공을 위해 프로젝트에서 제공하는 소스를 사용한 개작 프로젝트에 대해 사이트에서의 언급을 금지합니다.
+
+ - [나무위키](https://namu.wiki/)
+ - [리그베다위키](http://rigvedawiki.net)
+ - 대한민국에서 검열한 웹사이트
+
+**만약 위 사이트에서 언급한 사실이 있을시 문의 또는 해당 리포지토리 이슈로 신고해주시기 바랍니다**
