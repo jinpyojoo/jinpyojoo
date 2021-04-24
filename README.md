@@ -42,11 +42,10 @@
 <b>📆 previous projects</b>
 </summary>
 
-#### 🛠 projects marked with * will be open-source
- - Yak Project (with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)) *
+ - Yak Project (with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
  - MeetUP (KWC21 contest with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
  - acenga (Acentic project)
- - AG Bot (Acentic project) *
+ - AG Bot (Acentic project)
  - Acentic Website
  - Chungraon Front-end
 
@@ -59,9 +58,10 @@
 
  - [x] 컴퓨터활용능력 1급 필기 (2021.03.16)
  - [ ] 컴퓨터활용능력 1급 실기
- - [ ] 24시간 라디오 스트리밍
- - [ ] 포트폴리오 사이트 만들기
+ - [ ] 24시간 스트리밍
+ - [x] 포트폴리오 사이트 만들기 (https://jinpyojoo.github.io)
  - [ ] 홈서버 구축하기
+ - [ ] 수익 창출하기
 
 
 </details>
