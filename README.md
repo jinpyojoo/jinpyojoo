@@ -74,5 +74,3 @@
 [Kakao Talk](https://open.kakao.com/o/sZpZFV0c)
 
 <a href="https://github.com/jinpyojoo">![jinpyojoo](https://github-readme-stats.vercel.app/api?username=jinpyojoo&count_private=true)</a>
-
-현재 전체 리포지토리 README.MD파일 개선 및 종료된 프로젝트 정리중입니다.
