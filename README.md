@@ -8,8 +8,9 @@
 
 - 📗 16 years old
 - 💻 Front-end Developer
-- ✏️ Working on school Club "Semtle"
+- ✏️ Working on school Club "Semtle" and club leader
 - 📔 Working on Youth club "Younium" with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07)
+- 🌐 Chungraon Front-end Developer
 
 </details>
 
@@ -20,7 +21,6 @@
 
 - Python
 - Javascript
-- C & C++
 - Markup Languages (HTML, CSS)
 
 </details>
