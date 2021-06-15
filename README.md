@@ -69,6 +69,6 @@
 ### How to reach me
 [Mail](mailto:wnwlsvy0914@gmail.com)
 
-[Discord](https://discord.gg/2fu9yXYz4J)
+[Discord](https://discord.gg/rycsGTtE39)
 
 [Kakao Talk](https://open.kakao.com/o/sZpZFV0c)
