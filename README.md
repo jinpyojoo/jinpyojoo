@@ -30,8 +30,6 @@
 <b>🧾 Currently working projects</b>
 </summary>
 
- - sake L Archive
- - SaetByeol Gray
  - lett-Chat [acen.ga](https://acen.ga)
 
 </details>
@@ -41,6 +39,8 @@
 <b>📆 previous projects</b>
 </summary>
 
+ - sake L Archive
+ - SaetByeol Gray
  - Yak Project (with [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
  - MeetUP (KWC21 contest with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@LeeDonggyu-07](https://github.com/LeeDonggyu-07))
  - acenga (Acentic project)
