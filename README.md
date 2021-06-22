@@ -30,7 +30,7 @@
 <b>🧾 Currently working projects</b>
 </summary>
 
- - lett-Chat [acen.ga](https://acen.ga)
+ - lett-Chat [chat.pyo.codes](https://chat.pyo.codes)
 
 </details>
 
