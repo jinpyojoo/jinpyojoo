@@ -65,6 +65,7 @@
 
 </details>
 
+#### 최대한 아는분들은 맞팔로우 해드리고 있습니다
 
 ### How to reach me
 [Mail](mailto:wnwlsvy0914@gmail.com)
