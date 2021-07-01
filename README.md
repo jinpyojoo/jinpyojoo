@@ -2,7 +2,7 @@
 <h2>음악과 코딩을 좋아하는 중학생</h2>
 </div>
 
-<details markdown="1">
+<details markdown="1" open="open">
 <summary>한국어</summary>
 
 #### 제 깃허브 프로필에 와주셔서 감사합니다😀
