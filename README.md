@@ -1,5 +1,8 @@
 <div align="center">
-<h2>음악과 코딩을 좋아하는 중학생</h2>
+<h2>주진표</h2>
+
+프로젝트 후원 - [카카오페이](https://qr.kakaopay.com/281006011113715302002853)
+
 </div>
 
 <details markdown="1" open="open">
