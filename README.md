@@ -1,7 +1,7 @@
 <div align="center">
 <h2>주진표</h2>
 
-프로젝트 후원 - [카카오페이](https://qr.kakaopay.com/281006011113715302002853)
+프로젝트 후원 - [카카오페이(Jirooby)](https://qr.kakaopay.com/281006011113715302002853)
 
 </div>
 
