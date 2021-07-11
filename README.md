@@ -1,8 +1,5 @@
 <div align="center">
 <h2>주진표</h2>
-
-프로젝트 후원 - [카카오페이(Jirooby)](https://qr.kakaopay.com/281006011113715302002853)
-
 </div>
 
 <details markdown="1" open="open">
@@ -73,6 +70,13 @@
 
 
 </details>
+<details markdown="1">
+<summary>
+<b>💎 프로젝트 후원</b>
+</summary>
+
+ - [카카오페이(Jirooby)](https://qr.kakaopay.com/281006011113715302002853)
+ - 대구은행 508140638959
 
 </details>
 
