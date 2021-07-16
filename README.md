@@ -73,6 +73,7 @@
 <details markdown="1">
 <summary>
 <b>🌟 수상 내역</b>
+</summary>
  - 대구소프트웨어마이스터고등학교 중학생 해커톤 최우수상
 </details>
 
